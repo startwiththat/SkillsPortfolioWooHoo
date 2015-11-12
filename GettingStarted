@@ -1,0 +1,14 @@
+User Interface –
+How many pages do we need?
+
+What personal data are we storing? UserName, DisplayName, email, phone, address
+
+Skills – Will these be user defined or hard coded into the software? Do we want users to be able to self-rate on a scale of 1 to 10?
+
+Learning Events – Which skill, mode of learning (for example, class experience, online learning, self-study, project), date, duration (hours?, days? months?), intensity(in-depth, medium, casual)
+
+Links to Projects - web sites you've worked on, other code you've posted on GitHub as examples of your work
+
+For now I think we should not get to crazy about fonts and formatting, but we can look ahead to letting the user have some choice here.
+
+Please comment! Add your ideas, brainstorm away!
